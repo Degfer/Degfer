@@ -6,9 +6,18 @@
 - 👀 I’m interested in Web development (Vue, React), GameDev (Corona SDK or Solar 2D, GDevelop5, Unity)
 - 🌱 I'm an abbiturer now.
 - 📫 How to reach me Discord: Degworldin#1134
+<hr />
+<h2>🏆 Github Profile Trophy</h2>
 
 [![Degfer trophy](https://github-profile-trophy.vercel.app/?username=Degfer&theme=onedark)](https://github.com/Degfer/github-profile-trophy)
 
+<hr/>
+<h2>❤ LOVE Project</h2>
+
+[![Readme Card ILearn](https://github-readme-stats.vercel.app/api/pin/?username=NikitaZZZ&repo=ilearn-prototype&theme=radical)](https://github.com/NikitaZZZ/ilearn-prototype)
+
+<hr/>
+<h2>📊 My Stats</h2>
 
 ![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Degfer&theme=monokai)
 ![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Degfer&theme=monokai)
@@ -16,6 +25,8 @@
 ![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Degfer&theme=monokai)
 ![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Degfer&theme=monokai)
 
+<hr/>
+<h2>📈 Additionally</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Degfer&show_icons=true&theme=radical)
 
