@@ -1,3 +1,7 @@
+<h1 align="center">Hi there, I'm <a href="https://vk.com/public_lar" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Mad student 😎🤪. Developer of the LAR studio from Russia 🇷🇺</h3>
+
 - 👋 Hi, I’m @Degfer or just Danil
 - 👀 I’m interested in Web development (Vue, React), GameDev (Corona SDK or Solar 2D, GDevelop5, Unity)
 - 🌱 I'm an abbiturer now.
